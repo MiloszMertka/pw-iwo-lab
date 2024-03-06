@@ -1,4 +1,4 @@
-#Definicja Problemu
+# Definicja Problemu
 W dzisiejszym środowisku, gdzie wiele osób preferuje korzystać z usług cateringowych w celu oszczędzenia czasu i zachowania zdrowego trybu życia, istnieje wyraźna potrzeba efektywnego sposobu zamawiania posiłków od wielu dostawców cateringowych w jednym miejscu. 
 
 Obecnie, brak takiego centralnego systemu prowadzi do rozproszenia zamówień i trudności zarówno dla klientów, którzy muszą składać zamówienia oddzielnie u różnych dostawców, jak i dla dostawców, którzy muszą radzić sobie z różnorodnością zamówień i preferencji. 
