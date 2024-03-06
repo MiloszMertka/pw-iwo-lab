@@ -1,6 +1,8 @@
 # Specyfikacja Wymagań Zamawiającego
 
 1. [Wprowadzenie](#wprowadzenie)
+    - [Definicja problemu](#definicja-problemu)
+    - [Cel biznesowy](#cel-biznesowy)
 2. [Wizja Systemu](#wizja-systemu)
     - [Opis procesów biznesowych](#opis-procesów-biznesowych)
     - [Cechy systemu](#cechy-systemu)
@@ -9,6 +11,10 @@
 5. [Słownik dziedziny](#słownik-dziedziny)
 
 ## Wprowadzenie
+
+### Definicja problemu
+
+### Cel biznesowy
 
 ## Wizja Systemu
 
