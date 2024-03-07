@@ -5,13 +5,14 @@
 5.	Kuchnia – styl kulinarny przygotowania posiłku.
 6.	Dieta – specjalne wymagania żywieniowe.
 7.	Cena \[posiłku\] – kwota pieniężna wymagana za dany posiłek, określona przez dostawcę.
-8.	Zamówienie – zestaw informacji dotyczący okazania żądanej usługi. 
-9.	Rozliczenie – zestaw informacji dotyczący finansowego zobowiązania lub rozliczenia między stronami klient – dostawca usług.
-10.	Konto – indywidualne konto użytkownika w systemie, umożliwiające zarządzanie zamówieniami.
-11.	Użytkownik – osoba, korzystająca z aplikacji lub systemu w celu uzyskania określonych informacji lub realizacji określonych zadań. ???
-12.	Klient - ???
-13.	Aktywny klient - ???
-14. Klient stały
+8.	Subskrypcja - 
+9.	Zamówienie – zestaw informacji dotyczący okazania żądanej usługi. 
+10.	Rozliczenie – zestaw informacji dotyczący finansowego zobowiązania lub rozliczenia między stronami klient – dostawca usług.
+11.	Konto – indywidualne konto użytkownika w systemie, umożliwiające zarządzanie zamówieniami.
+12.	Użytkownik – osoba, korzystająca z aplikacji lub systemu w celu uzyskania określonych informacji lub realizacji określonych zadań. ???
+13.	Klient - ???
+14.	Aktywny klient - ???
+15. Klient stały
 15 Klient polecający
 16. Aktywny klient
 17. Przychód – łączna wartość sprzedaży usług w danym okresie rozliczeniowym.
