@@ -1,6 +1,6 @@
 # Cechy systemu
 ## Cechy funkcjonalne
- - System musi pozwalać zarządzać dostawcami usług cateringowych
+ - System musi umożliwiać zarządzanie dostawcami usług cateringowych
  - System musi umożliwiać zarządzanie kombinacjami posiłków
  - System musi umożliwiać zarządzanie kodami rabatowymi
  - System musi umożliwiać użytkownikom zgłaszanie opinii
@@ -20,7 +20,7 @@
  - System musi umożliwiać promowanie usług oferowanych przez dostawców usług cateringowych
  - System musi umożliwiać wystawianie ocen dostawcom usług cateringowych oraz pojedynczym posiłkom przez klientów z potwierdzonym zamówieniem
  - System musi umożliwiać rekomendację posiłków na podstawie historii zamówień
- - System musi implementować opcję wyszukiwania dostawców usług cateringowych na podstawie filtrów takich jak: 
+ - System musi implementować opcję wyszukiwania usług dostawców usług cateringowych na podstawie filtrów takich jak: 
 	 - Adres
 	 - Data
 	 - Cena
@@ -31,7 +31,7 @@
 	 - Typ posiłku
 	 - Rodzaj kuchni
 	 - Rodzaj diety
-	 - Docelowego klienta
+	 - Klient docelowy
  - System musi wspierać wysyłanie powiadomień mailowych oraz push do użytkowników
  - System musi implementować system nagród dla stałych klientów oraz klientów polecających
  - System musi wspomagać weryfikowanie zgłoszeń od użytkowników
