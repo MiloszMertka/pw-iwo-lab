@@ -16,7 +16,7 @@
 15. Klient stały - klient, korzystający z usług tego samego dostawcy.
 16. Klient polecający - klient, zapraszający ludzi do skorzystania z systemu.
 17. Przychód – łączna wartość sprzedaży usług w danym okresie rozliczeniowym.
-18. Pakiet \[posiłków\] – zestawienie posiłków dostępnych do zamówienia w ramach określonego pakietu. ???
+18. Pakiet \[posiłków\] – zestawienie posiłków dostępnych do zamówienia w ramach określonego pakietu.
 19. Program promowania – oferta promocyjna umożliwiająca dostawcom wyróżnienie swoich usług.
 20. Ocena – stopień satysfakcji użytkowników z usług lub posiłków, wyliczany na podstawie zostawionych przez klientów opinii.
 21. Opinia – wypowiedź użytkownika na temat satysfakcji z jakości realizowania usługi lub posiłku, w postaci oceny w skali 1-5 i tekstu opisowego.
