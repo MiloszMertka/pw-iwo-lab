@@ -10,9 +10,9 @@
 9.	Zamówienie – zestaw informacji dotyczący okazania żądanej usługi.
 10.	Rozliczenie – zestaw informacji dotyczący finansowego zobowiązania lub rozliczenia między stronami klient – dostawca usług.
 11.	Konto – indywidualne konto użytkownika w systemie, umożliwiające zarządzanie zamówieniami.
-12.	Użytkownik – osoba, korzystająca z aplikacji lub systemu w celu uzyskania określonych informacji lub realizacji określonych zadań. ???
-13.	Klient - osoba, składająca zamówienia w systemie.
-14.	Aktywny klient - ???
+12.	Użytkownik – osoba, korzystająca z aplikacji lub systemu w celu uzyskania określonych informacji lub realizacji określonych zadań.
+13.	Klient - użytkownik, posiadający konto w systemie, posiadający możliwość składania zamówienia.
+14.	Aktywny klient - klient, składający zamówienia w systemie.
 15. Klient stały - klient, korzystający z usług tego samego dostawcy.
 16. Klient polecający - klient, zapraszający ludzi do skorzystania z systemu.
 17. Przychód – łączna wartość sprzedaży usług w danym okresie rozliczeniowym.
@@ -27,4 +27,3 @@
 26. Rabat – obniżka ceny zamówienia dla klientów w ramach promocji.
 27. Kod rabatowy – kod umożliwiający uzyskanie rabatu podczas składania zamówienia.
 28. Przerwa działania – okres czasu, w którym system nie jest dostępny dla użytkowników.
-29. Wycena oferty - ?
