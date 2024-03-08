@@ -47,3 +47,44 @@
 1.4.3 chciałbym, aby aplikacja wysyłała mi powiadomienia mailowe oraz przez powiadomienia push w aplikacji mobilnej o nowych daniach, aby spróbować czegoś nowego.
 ## 1.5 Nagrody
 1.5.1 chciałbym, aby aplikacja nagradzała mnie za zamawianie posiłków, aby zyskać rabaty na kolejne zamówienia.
+
+
+# 2. Jako dostawca usług cateringowych:
+## 2.1. Oferta
+2.1.1 chcę dodawać nowe posiłki do oferty
+
+2.1.2 chcę usuwać wybrane posiłki z oferty
+
+2.1.3 chcę edytować informacje o wybranych posiłkach z oferty
+
+2.1.4 chcę dodawać nowe pakiety posiłków do oferty
+
+2.1.5 chcę usuwać wybrane pakiety posiłków z oferty
+
+2.1.6 chcę edytować informacje o wybranych pakietach posiłków z oferty
+
+2.1.7 chcę dodawać do każdego posiłku dodatkowe informacje takie jak zdjęcie, opis czy ilość kalorii
+
+2.1.8 chcę przeglądać aktywne zamówienia klientów
+## 2.2. Promowanie, oceny
+2.2.1 chcę mieć możliwość promowania swoich ofert
+
+2.2.2 chcę móc przeglądać opinie klientów
+
+2.2.3 chcę móc zgłaszać opinie klientów, które uważam za nieprawdziwe
+## 2.3. Statystyki
+2.3.1 chcę przeglądać statystyki: liczby aktywnych klientów, przychodów itp.
+
+
+# 3. Jako zarządzający:
+## 3.1. Dostawcy
+3.1.1 chcę dodawać nowych dostawców
+
+3.1.2 chcę usuwać wybranych dostawców
+## 3.2. Opinie
+3.2.1 chcę mieć możliwość rozpatrzenia zgłoszenia opinii
+## 3.3. Promowanie/powiadomienia
+3.3.1 chcę udostępniać możliwość zakupu promowania ofert dostawców
+
+3.3.2 chcę aby klienci otrzymywali powiadomienia mailowe oraz powiadomienia push w aplikacji mobilnej z rekomendacjami lub zachęcające do wystawienia opinii
+
