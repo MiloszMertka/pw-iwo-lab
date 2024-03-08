@@ -16,13 +16,13 @@
 15. Klient stały - klient, korzystający z usług tego samego dostawcy.
 16. Klient polecający - klient, zapraszający ludzi do skorzystania z systemu.
 17. Przychód – łączna wartość sprzedaży usług w danym okresie rozliczeniowym.
-18. Pakiet /[posiłków/] – zestawienie posiłków dostępnych do zamówienia w ramach określonego pakietu. ???
+18. Pakiet \[posiłków\] – zestawienie posiłków dostępnych do zamówienia w ramach określonego pakietu. ???
 19. Program promowania – oferta promocyjna umożliwiająca dostawcom wyróżnienie swoich usług.
 20. Ocena – stopień satysfakcji użytkowników z usług lub posiłków, wyliczany na podstawie zostawionych przez klientów opinii.
 21. Opinia – wypowiedź użytkownika na temat satysfakcji z jakości realizowania usługi lub posiłku, w postaci oceny w skali 1-5 i tekstu opisowego.
 22. Zła/negatywna opinia – opinia z oceną w zakresie 1-3.
 23. Dobra/pozytywna opinia – opinia z oceną w zakresie 4-5.
-24. Popularność /[usługi/] - liczba zamówień danej usługi w danym okresie czasu.
+24. Popularność \[usługi\] - liczba zamówień danej usługi w danym okresie czasu.
 25. Pieczątka – nagroda przyznawana stałym klientom za każde zamówienie.
 26. Rabat – obniżka ceny zamówienia dla klientów w ramach promocji.
 27. Kod rabatowy – kod umożliwiający uzyskanie rabatu podczas składania zamówienia.
