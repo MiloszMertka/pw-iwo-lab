@@ -26,4 +26,29 @@ Klient wybiera zakładkę w aplikacji zawierającą zrealizowane zamówienia. Wy
 ### 8. Weryfikacja opinii klienta
 Do systemu trafia informacja o zgłoszeniu wystawionej opinii przez klienta. System przekazuje tą informację zawierającą m.in powód zgłoszenia do wyznaczonego pracownika. Pracownik ten weryfikuje wystawioną opinię pod względem nieodpowiednich treści. Jeżeli pracownik stwierdzi że zgłoszenie jest słuszne to potwierdza zgłoszenie. Następnie opinia jest usuwana przez system. W przypadku gdy pracownik stwierdzi że zgłoszenie jest niesłuszne to odrzuca zgłoszenie, a system zachowuje opinię.
 
+### 9. Realizacja rozliczeń z dostawcami usług caterinowych
+System gromadzi informacje dotyczące zamówień złożonych przez klientów i wysyła je do dostawcy. Następnie oczekuje na otrzymanie faktur wystawionych przez dostawcę. Otrzymane faktury są weryfikowane co do zgodności danych identyfikacyjnych, produktów, cen i kwoty do zapłaty. Po dokonaniu weryfikacji, faktury są rejestrowane w systemie księgowym firmy i zatwierdzane do zapłaty. Jeśli wszystkie dane są poprawne, faktury są akceptowane do płatności. W przypadku jakichkolwiek nieprawidłowości, konieczne może być skontaktowanie się z dostawcą w celu wyjaśnienia sytuacji. Następnie firma dokonuje płatności dla dostawcy w formie przelewu bankowego. Do dostawcy wysyłane jest potwierdzenie przelewu.
 
+### 10. Zarządzanie zamówieniami posiłków
+System przyjmuje zamówienia na posiłki od klientów. Po otrzymaniu zamównienia, system rejestruje je w bazie danych. System sprawdza dostępność zamówionych posiłków oraz możliwe terminy dostawy. Jeśli któryś z zamówionych posiłków jest niedostępny w danym terminie, system może zaproponować alternatywny posiłek lub inne dostępne terminy. Po weryfikacji dostępności, zamówienia są przygotowywane do realizacji. Posiłki są przygotowywane zgodnie z zamówieniem, pakowane i dostarczane do klientów. Gdy dostawa wyrusza do klienta dostaje on powiadomienie w aplikacji.
+
+### 11. Dodawanie posiłków przez dostawcę
+Dostawca wybiera zakładkę w aplikacji zawierającą oferowane zamówienia. Z tej pozycji ma możliwość dodania nowego posiłku. W tym celu musi podać dane w formularzu dotyczące posiłu, w szczególności kaloryczność, informacje o wartościach odżywczych, rodzaj kuchni, opis, zdjęcie. Ponadto sprzedawca określa możliwy termin dostawy, obejmujący określenie dni tygodnia, godzin dostawy oraz minimalnej ilości zamówień dla danego posiłku. Następnie zatwierdza formnularz.
+
+### 12. Aktualizowanie oferowanych posiłków przez dostawcę
+Dostawca wybiera zakładkę w aplikacji zawierającą oferowane zamówienia. Odnajduje interesujący go posiłek. Dostawca wybiera opcję edycji posiłku. Zostaje przekierowany do formularza zawierającego dane zapisane w systemie. Dostawca dokonuje niezbędnych zmian, następnie zatwierdza formularz. System dokonuje aktualizacji danych w swojej bazie danych.
+
+### 13. Zgłaszanie przez klienta skargi na dostawcę
+Klient wchodzi w aplikacji w historię swoich zamówień, wybiera odpowiednie zamówienie. Klient wypełnia odpowiedni formularz, w którym opisuje swoją skargę. Podaje informację o typie problemu, opisuje zdarzenie. Skarga trafia do pracownika, który po zweryfikowaniu skargi kontaktuje się z dostawcą. W trakcie kontaktu pracownik dokładnie opisuje problem i oczekiwania wobec dostawcy w celu rozwiązania sytuacji. Dostawca podejmuje działania w celu rozwiązania problemu. Klient zostaje poinformowany o działaniach wobec dostawcy. W przypadku braku zadowolenia pracownik podejmuje dalsze działania wobec dostawcy. Jeżeli dostawca nie zgodzi się na proponowane rozwiązanie dostawca zostaje usunięty z listy dostawców.
+
+### 14. Pozyskiwanie statystyk biznesowych przez dostawcę
+Dostawca wybiera w aplikacji zakładkę zawierającą statystyki. Dostawca ma możliwość przeglądania różnych rodzajów statystyk, takich jak liczba aktywnych klientów, przychody czy inne istotne wskaźniki biznesowe. Dostawcy są prezentowane odpowiednie wykresy i zestawienia danych. Może on sortować i filtrować przedstawione dane. Następnie dostawca analizuje zebrane dane, aby lepiej zrozumieć swoją działalność oraz identyfikować trendy i wzorce w zachowaniach klientów. Na podstawie analizy danych dostawca dokonuje interpretacji wyników i wyciąga wnioski.
+
+### 15. Aktualizacja danych dostawcy w systemie
+Dostawca usług cateringowych kontaktuje się pracownikiem firmy. Otrzymuje formularz ze swoimi danymi, wprowadza niezbędne modyfikacje. Przesłany formularz jest następnie walidowany przez system pod względem poprawności. W przypadku błędów jest zwracany do ponownego uzupełnienia. Formularz jest sprawdzany przez administratora systemu. Jeżeli wykryje on błąd formularz jest zwracany. Po weryfikacji administrator wprowadza niezbędne zmiany w systemie i informuje dostawcę o wprowadzeniu zmian.
+
+### #16. Rezygnacja dostawcy z uczestniczenia w systemie
+Dostawca usług cateringowych kontaktuje się pracownikiem firmy. Informuje o zamiarze rezygnacji współpracy. Pracownik przekonuje do kontynuacji współpracy. Pyta dostawcę o przyczyny decyzji i oferuje rozwiązanie zadowalające obie strony. W przypadku braku chęci kontynuacji współpracy ze strony dostawcy informuje o harmonogramie działań. Posiłki oferowane przez dostawcę przestają być oferowane klientom. Następuje rozlicznie z dostawcą. Dane dostawcy są usuwane z systemu.
+
+### 17. Promowanie usług dostawców usług cateringowych
+Dostawca wybiera zakładkę w aplikacji zawierającą zarządzanie promowaniem usług. Zostaje mu przedstawione oferta promowania, w ramach której usługi dostawcy będą wyróżnione na stronie. Dostawca może zaznaczyć interesującą go ofertę i wykupić odpowiedni pakiet. Po płatności zostaje poinformowany o rozpoczęciu promocji. Dostawca może monitorować efektywność promocji przez udostępnione w aplikacji statystyki. Na podstawie zebranych danych dostawca może wykupić inny pakiet promowania.
