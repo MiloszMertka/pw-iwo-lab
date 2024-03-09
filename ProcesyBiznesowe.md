@@ -47,8 +47,8 @@ Dostawca wybiera w aplikacji zakładkę zawierającą statystyki. Dostawca ma mo
 ### 15. Aktualizacja danych dostawcy w systemie
 Dostawca usług cateringowych kontaktuje się pracownikiem firmy. Otrzymuje formularz ze swoimi danymi, wprowadza niezbędne modyfikacje. Przesłany formularz jest następnie walidowany przez system pod względem poprawności. W przypadku błędów jest zwracany do ponownego uzupełnienia. Formularz jest sprawdzany przez administratora systemu. Jeżeli wykryje on błąd formularz jest zwracany. Po weryfikacji administrator wprowadza niezbędne zmiany w systemie i informuje dostawcę o wprowadzeniu zmian.
 
-### #16. Rezygnacja dostawcy z uczestniczenia w systemie
+### 16. Rezygnacja dostawcy z uczestniczenia w systemie
 Dostawca usług cateringowych kontaktuje się pracownikiem firmy. Informuje o zamiarze rezygnacji współpracy. Pracownik przekonuje do kontynuacji współpracy. Pyta dostawcę o przyczyny decyzji i oferuje rozwiązanie zadowalające obie strony. W przypadku braku chęci kontynuacji współpracy ze strony dostawcy informuje o harmonogramie działań. Posiłki oferowane przez dostawcę przestają być oferowane klientom. Następuje rozlicznie z dostawcą. Dane dostawcy są usuwane z systemu.
 
-### 17. Promowanie usług dostawców usług cateringowych
+### 17. Promowanie usług dostawców
 Dostawca wybiera zakładkę w aplikacji zawierającą zarządzanie promowaniem usług. Zostaje mu przedstawione oferta promowania, w ramach której usługi dostawcy będą wyróżnione na stronie. Dostawca może zaznaczyć interesującą go ofertę i wykupić odpowiedni pakiet. Po płatności zostaje poinformowany o rozpoczęciu promocji. Dostawca może monitorować efektywność promocji przez udostępnione w aplikacji statystyki. Na podstawie zebranych danych dostawca może wykupić inny pakiet promowania.
