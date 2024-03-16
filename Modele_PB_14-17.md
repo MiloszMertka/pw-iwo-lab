@@ -11,7 +11,8 @@ Dostawca wybiera w aplikacji zakładkę zawierającą statystyki. Dostawca ma mo
 ### 15. Aktualizacja danych dostawcy w systemie
 Dostawca usług cateringowych kontaktuje się pracownikiem firmy. Otrzymuje formularz ze swoimi danymi, wprowadza niezbędne modyfikacje. Przesłany formularz jest następnie walidowany przez system pod względem poprawności. W przypadku błędów jest zwracany do ponownego uzupełnienia. Formularz jest sprawdzany przez administratora systemu. Jeżeli wykryje on błąd formularz jest zwracany. Po weryfikacji administrator wprowadza niezbędne zmiany w systemie i informuje dostawcę o wprowadzeniu zmian.
 
-![Aktualizacja_danych_dostawcy_w_systemie](https://github.com/MiloszMertka/pw-iwo-lab/assets/95347931/f8764b5b-a2d7-467e-aea0-f3ac19254b34)
+![Aktualizacja_danych_dostawcy_w_systemie](https://github.com/MiloszMertka/pw-iwo-lab/assets/95347931/d9acce9e-18f1-4f4d-a85d-184761420b73)
+
 
 
 ### 16. Rezygnacja dostawcy z uczestniczenia w systemie
