@@ -190,6 +190,7 @@ Dostawca wybiera zakładkę w aplikacji zawierającą zarządzanie promowaniem u
 3.3.1 chcę udostępniać możliwość zakupu promowania ofert dostawców, aby zwiększyć zyski [*Adam Smerdzyński*]   
 3.3.2 chcę aby klienci otrzymywali powiadomienia mailowe oraz powiadomienia push w aplikacji mobilnej z rekomendacjami lub zachęcające do wystawienia opinii, aby zachęcić klientów do ponownych zakupów w aplikacji
 [*Adam Smerdzyński*]
+3.3.3 chcę mieć możliwość zablokowania wystawiania opinii użytkownikowi, aby uniemożliwić mu szerzenie nienawiści i ograniczać niepoprawne zachowania [*Sebastian Sekula*]
 
 ### Wymagania jakościowe i ograniczenia
 
