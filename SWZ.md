@@ -245,17 +245,17 @@ Dostawca wybiera zakładkę w aplikacji zawierającą zarządzanie promowaniem u
 [*Mateusz Tkaczyk*]
 - **Rodzaj**: Użyteczność
 - **Opis**: System powinien wysyłać powiadomienia zachęcające użytkowników do wystawienia opinii dzień po dostarczeniu zamówienia.
-- **Sposób pomiaru**: Liczba wysłanych powiadomień i procent użytkowników, którzy wystawili opinię.
-- **Możliwy wynik pomiaru**: Procent użytkowników, którzy wystawili opinię po otrzymaniu powiadomienia.
-- **Oczekiwane wartości**: Co najmniej 50% użytkowników wystawia opinię po otrzymaniu powiadomienia.
+- **Sposób pomiaru**:  Liczba wysłanych powiadomień i przeprowadzenie ankiety oceniającej użyteczność i zachęcający charakter powiadomień.
+- **Możliwy wynik pomiaru**: Ocena użyteczności i zachęcającego charakteru powiadomień na podstawie odpowiedzi użytkowników w ankiecie.
+- **Oczekiwane wartości**: Co najmniej 40% użytkowników ocenia powiadomienia jako użyteczne i zachęcające.
 
 #### Efektywność systemu nagród
 [*Mateusz Tkaczyk*]
 - **Rodzaj**: Użyteczność
 - **Opis**: System nagród powinien być intuicyjny i motywować użytkowników do częstszego korzystania z usług.
-- **Sposób pomiaru**: Liczba użytkowników korzystających z systemu nagród.
-- **Możliwy wynik pomiaru**: Liczba użytkowników korzystających z systemu nagród w stosunku do ogólnej liczby użytkowników.
-- **Oczekiwane wartości**: Co najmniej 50% aktywnych użytkowników korzysta z systemu nagród.
+- **Sposób pomiaru**: Przeprowadzenie ankiety oceniającej użyteczność i zachęcający charakter systemu nagród.
+- **Możliwy wynik pomiaru**: Ocena systemu nagród na podstawie odpowiedzi użytkowników w ankiecie.
+- **Oczekiwane wartości**:  Co najmniej 40% użytkowników ocenia system nagród jako użyteczny i zachęcający.
 
 #### Integracja z zewnętrznymi systemami opinii
 [*Mateusz Tkaczyk*]
@@ -264,6 +264,22 @@ Dostawca wybiera zakładkę w aplikacji zawierającą zarządzanie promowaniem u
 - **Sposób pomiaru**: Liczba zintegrowanych platform i dokładność wyświetlanych ocen.
 - **Możliwy wynik pomiaru**: Procent poprawnie zintegrowanych ocen.
 - **Oczekiwane wartości**: 100% poprawności.
+
+#### Stabilność zamówień wobec zmian w ofercie
+[*Mateusz Tkaczyk*]
+- **Rodzaj**: Niezawodność
+- **Opis**: Po złożeniu zamówienia przez klienta, system musi gwarantować stabilność zamówienia, nawet jeśli doszło do zmian w ofercie. To oznacza, że zamówienie klienta nie powinno ulec zmianie, nawet jeśli elementy oferty zostały zmienione lub usunięte.
+- **Sposób pomiaru**: Analiza systemu pod kątem stabilności zamówień wobec zmian w ofercie.
+- **Możliwy wynik pomiaru**: Ocena systemu na podstawie analizy.
+- **Oczekiwane wartości**: System gwarantuje stabilność zamówień, niezależnie od zmian w ofercie.
+
+#### Przeprowadzenie testów przed wypuszczeniem na rynek
+[*Mateusz Tkaczyk*]
+- **Rodzaj**: Niezawodność
+- **Opis**: Przed wypuszczeniem na rynek, system musi być poddany szczegółowym testom, aby zapewnić jego poprawne działanie i spełnienie wszystkich wymagań.
+- **Sposób pomiaru**: Liczba przeprowadzonych testów i ich wyniki.
+- **Możliwy wynik pomiaru**: Procent testów zakończonych sukcesem.
+- **Oczekiwane wartości**: Wszystkie testy muszą zakończyć się sukcesem przed wypuszczeniem systemu na rynek.
 
 ### Ograniczenia
 - **Platformy mobilne**: System musi być dostępny jako aplikacja mobilna, co oznacza, że musi być kompatybilny z różnymi systemami operacyjnymi mobilnymi.
