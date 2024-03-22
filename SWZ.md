@@ -347,65 +347,66 @@ Dostawca wybiera zakładkę w aplikacji zawierającą zarządzanie promowaniem u
 [*Ulyana Petrashevich*]
 24. Popularność \[usługi\] - liczba zamówień danej usługi w danym okresie czasu.
 [*Ulyana Petrashevich*]
-25. Pieczątka – nagroda przyznawana stałym klientom za każde zamówienie.
+25. Pieczątka – token przyznawany stałym klientom za każde zamówienie.
 [*Ulyana Petrashevich*]
-26. Rabat – obniżka ceny zamówienia dla klientów w ramach promocji.
+26. Nagroda - zniżka przyznawana klientowi za zdobycie określonej ilości pieczątek. [*Ulyana Petrashevich*]
+27. Rabat – obniżka ceny zamówienia dla klientów w ramach promocji.
 [*Ulyana Petrashevich*]
-27. Kod rabatowy – kod umożliwiający uzyskanie rabatu podczas składania zamówienia.
+28. Kod rabatowy – kod umożliwiający uzyskanie rabatu podczas składania zamówienia.
 [*Ulyana Petrashevich*]
-28. Przerwa działania – okres czasu, w którym system nie jest dostępny dla użytkowników.
+29. Przerwa działania – okres czasu, w którym system nie jest dostępny dla użytkowników.
 [*Ulyana Petrashevich*]
-29. Platforma mobilna - Aplikacja lub strona internetowa dostępna na urządzeniach mobilnych, umożliwiająca użytkownikom korzystanie z usług cateringowych.
+30. Platforma mobilna - Aplikacja lub strona internetowa dostępna na urządzeniach mobilnych, umożliwiająca użytkownikom korzystanie z usług cateringowych.
 [*Bernard Cesarz*]  
-30. Integracja z zewnętrznymi systemami opinii - Proces połączenia systemu z zewnętrznymi platformami do gromadzenia i wyświetlania opinii użytkowników.
+31. Integracja z zewnętrznymi systemami opinii - Proces połączenia systemu z zewnętrznymi platformami do gromadzenia i wyświetlania opinii użytkowników.
 [*Bernard Cesarz*]  
-31. Lista dostaw - Zestawienie dostępnych dostawców usług cateringowych, które mogą być wybrane przez użytkowników.
+32. Lista dostaw - Zestawienie dostępnych dostawców usług cateringowych, które mogą być wybrane przez użytkowników.
 [*Bernard Cesarz*]  
-32. Powiadomienia push - Wiadomości wysyłane do urządzeń użytkowników bez ich bezpośredniego zapytania, często w celu informowania o nowych ofertach, promocjach lub statusie zamówienia.
+33. Powiadomienia push - Wiadomości wysyłane do urządzeń użytkowników bez ich bezpośredniego zapytania, często w celu informowania o nowych ofertach, promocjach lub statusie zamówienia.
 [*Bernard Cesarz*]  
-33. Zgłaszanie opinii - Proces, w którym użytkownicy mogą zgłaszać swoje opinie na temat posiłków, które próbowali, w celu pomocy innym użytkownikom w podejmowaniu decyzji.
+34. Zgłaszanie opinii - Proces, w którym użytkownicy mogą zgłaszać swoje opinie na temat posiłków, które próbowali, w celu pomocy innym użytkownikom w podejmowaniu decyzji.
 [*Bernard Cesarz*]  
-34. Odpytywanie API systemu cateringowego - Proces wysyłania zapytań do zewnętrznego systemu (API) w celu pobrania aktualnych informacji, takich jak dostępność posiłków, ceny, itp.
+35. Odpytywanie API systemu cateringowego - Proces wysyłania zapytań do zewnętrznego systemu (API) w celu pobrania aktualnych informacji, takich jak dostępność posiłków, ceny, itp.
 [*Bernard Cesarz*]  
-35. Niezawodność systemu - Właściwość systemu, która zapewnia jego ciągłe działanie bez przerwy, zwłaszcza w okresie, kiedy regularnie będzie występować większe obciążenie.
+36. Niezawodność systemu - Właściwość systemu, która zapewnia jego ciągłe działanie bez przerwy, zwłaszcza w okresie, kiedy regularnie będzie występować większe obciążenie.
 [*Bernard Cesarz*]  
-36. Prometeusz - Narzędzie do zbierania i analizy statystyk dotyczących działania systemu, takich jak liczba zamówień w danym czasie.
+37. Prometeusz - Narzędzie do zbierania i analizy statystyk dotyczących działania systemu, takich jak liczba zamówień w danym czasie.
 [*Bernard Cesarz*]  
-37. Subskrypcja - Usługa, w ramach której użytkownik otrzymuje regularne dostawy posiłków od wybranego dostawcy.
+38. Subskrypcja - Usługa, w ramach której użytkownik otrzymuje regularne dostawy posiłków od wybranego dostawcy.
 [*Bernard Cesarz*]  
-38. Wycena ofert - Proces oceny ofert posiłków, uwzględniający prowizje za promocje oraz stałe prowizje.
+39. Wycena ofert - Proces oceny ofert posiłków, uwzględniający prowizje za promocje oraz stałe prowizje.
 [*Bernard Cesarz*]  
-39. Zamówienie - Proces składania żądania na dostarczenie posiłków, w którym użytkownik podaje adres dostawy, datę dostawy, wybiera ofertę i przechodzi do koszyka zakupowego.
+40. Zamówienie - Proces składania żądania na dostarczenie posiłków, w którym użytkownik podaje adres dostawy, datę dostawy, wybiera ofertę i przechodzi do koszyka zakupowego.
 [*Bernard Cesarz*]  
-40. Koszyk zakupowy - Sekcja w aplikacji lub stronie internetowej, w której użytkownik gromadzi wybrane posiłki do zamówienia.
+41. Koszyk zakupowy - Sekcja w aplikacji lub stronie internetowej, w której użytkownik gromadzi wybrane posiłki do zamówienia.
 [*Bernard Cesarz*]  
-41. Zarządzanie kontem - Proces zarządzania użytkownikiem w systemie, w tym aktualizacji danych, zarządzania zamówieniami i preferencjami.
+42. Zarządzanie kontem - Proces zarządzania użytkownikiem w systemie, w tym aktualizacji danych, zarządzania zamówieniami i preferencjami.
 [*Bernard Cesarz*]  
-42. Statystyki - Dane dotyczące działania systemu, takie jak liczba zarejestrowanych użytkowników, liczba zamówień, popularność posiłków, itp.
+43. Statystyki - Dane dotyczące działania systemu, takie jak liczba zarejestrowanych użytkowników, liczba zamówień, popularność posiłków, itp.
 [*Bernard Cesarz*]  
-43. Zarządzanie kodami rabatowymi - Proces tworzenia, aktualizacji i wygaśnięcia kodów rabatowych, które mogą być używane przez użytkowników podczas składania zamówień.
+44. Zarządzanie kodami rabatowymi - Proces tworzenia, aktualizacji i wygaśnięcia kodów rabatowych, które mogą być używane przez użytkowników podczas składania zamówień.
 [*Bernard Cesarz*]  
-44. Raportowanie opini przez zwykłych użytkowników - Proces, w którym użytkownicy mogą zgłaszać swoje opinie na temat posiłków, które próbowali, w celu pomocy innym użytkownikom w podejmowaniu decyzji.
+45. Raportowanie opini przez zwykłych użytkowników - Proces, w którym użytkownicy mogą zgłaszać swoje opinie na temat posiłków, które próbowali, w celu pomocy innym użytkownikom w podejmowaniu decyzji.
 [*Bernard Cesarz*]  
-45. Filtrowanie - Funkcja pozwalająca użytkownikom na wyszukanie posiłków na podstawie różnych kryteriów, takich jak adres, data, dostawcy, kalorie, popularność, opinie, dieta, cena, typy posiłków, rodzaj kuchni, itp.
+46. Filtrowanie - Funkcja pozwalająca użytkownikom na wyszukanie posiłków na podstawie różnych kryteriów, takich jak adres, data, dostawcy, kalorie, popularność, opinie, dieta, cena, typy posiłków, rodzaj kuchni, itp.
 [*Bernard Cesarz*]  
-46. Cenzura nieprzyzwoitych treści w opiniach - Proces moderacji opinii, w którym złe/negatywne opinie są filtrowane lub usuwane, aby zapewnić pozytywne doświadczenia dla użytkowników.
+47. Cenzura nieprzyzwoitych treści w opiniach - Proces moderacji opinii, w którym złe/negatywne opinie są filtrowane lub usuwane, aby zapewnić pozytywne doświadczenia dla użytkowników.
 [*Bernard Cesarz*]  
-47. Zgłaszanie zamówień - Proces składania zamówienia przez użytkowników, którzy są zarejestrowani w systemie.
+48. Zgłaszanie zamówień - Proces składania zamówienia przez użytkowników, którzy są zarejestrowani w systemie.
 [*Bernard Cesarz*]  
-48. Rejestracja - Proces tworzenia konta użytkownika w systemie, umożliwiający korzystanie z usług.
+49. Rejestracja - Proces tworzenia konta użytkownika w systemie, umożliwiający korzystanie z usług.
 [*Bernard Cesarz*]  
-49. Dane do faktury - Informacje potrzebne do wystawienia faktury dla firm, takie jak nazwa firmy, adres, dane kontaktowe, itp.
+50. Dane do faktury - Informacje potrzebne do wystawienia faktury dla firm, takie jak nazwa firmy, adres, dane kontaktowe, itp.
 [*Bernard Cesarz*]  
-50. Zapamiętywanie preferencji - Funkcja, która pozwala systemowi zapamiętywać preferencje użytkownika, takie jak ulubione posiłki, dostawcy, itp., aby ułatwić składanie przyszłych zamówień.
+51. Zapamiętywanie preferencji - Funkcja, która pozwala systemowi zapamiętywać preferencje użytkownika, takie jak ulubione posiłki, dostawcy, itp., aby ułatwić składanie przyszłych zamówień.
 [*Bernard Cesarz*]  
-51. Historia zamówień - Zestawienie wszystkich zamówień, które użytkownik złożył, z możliwością dodawania nowych zamówień na ich podstawie.
+52. Historia zamówień - Zestawienie wszystkich zamówień, które użytkownik złożył, z możliwością dodawania nowych zamówień na ich podstawie.
 [*Bernard Cesarz*]  
-52. Zachęcanie użytkowników do zostawiania ocen - Strategia marketingowa, mająca na celu zwiększenie liczby opinii na temat posiłków, poprzez różne formy zachęcania, takie jak nagrody, promocje, itp.
+53. Zachęcanie użytkowników do zostawiania ocen - Strategia marketingowa, mająca na celu zwiększenie liczby opinii na temat posiłków, poprzez różne formy zachęcania, takie jak nagrody, promocje, itp.
 [*Bernard Cesarz*]  
-53. Powiadomienia dzień po dostarczeniu zamówienia - Funkcja wysyłania powiadomień do użytkowników po dostarczeniu ich zamówienia, w celu zebrania opinii lub potencjalnego złożenia kolejnego zamówienia.
+54. Powiadomienia dzień po dostarczeniu zamówienia - Funkcja wysyłania powiadomień do użytkowników po dostarczeniu ich zamówienia, w celu zebrania opinii lub potencjalnego złożenia kolejnego zamówienia.
 [*Bernard Cesarz*]  
-54. Region funkcjonowania - Geograficzny obszar, w którym system jest dostępny i funkcjonuje, w tym przypadku Polska.
+55. Region funkcjonowania - Geograficzny obszar, w którym system jest dostępny i funkcjonuje, w tym przypadku Polska.
 [*Bernard Cesarz*]  
-55. Elastyczność systemu - Właściwość systemu, która pozwala na łatwe skalowanie liczby użytkowników i dostosowywanie do zmieniających się potrzeb.
+56. Elastyczność systemu - Właściwość systemu, która pozwala na łatwe skalowanie liczby użytkowników i dostosowywanie do zmieniających się potrzeb.
 [*Bernard Cesarz*]  
