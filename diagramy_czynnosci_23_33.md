@@ -1,8 +1,5 @@
 # Diagramy czynności od 23 do 33
 
-### 7. Wystawianie opinii przez klientów (model - Michał Szlązak, opis - Sebastian Grosfeld)
-![Michał Szlązak](images/Wystawienie_Opinii.png "Wystawianie opinii przez klientów")
-
 ### 23. Dokonanie płatności za usługę promowania
 ![Michał Szlązak](activity_images/dokonanie_platnosci_za_usluge_promowania.png "Dokonanie płatności za usługę promowania")
 
