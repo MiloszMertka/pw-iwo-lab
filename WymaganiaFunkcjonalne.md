@@ -39,6 +39,8 @@
 1.3.4 chcę mieć możliwość dowolnie konfigurować dostawców usług cateringowych, aby zamówić dokładnie to, na co mam ochotę.
 
 1.3.5 chcę mieć możliwość zasubskrybowania usług cateringowych, aby nie musieć zamawiać posiłków codziennie.
+
+1.3.6 chcę mieć możliwość wystawienia faktury dla zamówienia, by móc się rozliczyć z innym podmiotem.
 ## 1.4. Ulubione/Preferencje
 1.4.1 chciałbym, aby aplikacja zapamiętała moje ulubione posiłki, aby móc je zamówić ponownie w szybki sposób.
 
